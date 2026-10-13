@@ -21,7 +21,7 @@
     /** border height of amazon**/
 }
 .logo{
-    background-image: url(logo.jpeg);
+    background-image: url(images/logo.jpeg);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -120,7 +120,7 @@ justify-content: space-evenly;
 }
 /** Hero section**/
 .hero-section{
-    background-image: url(electronics.jpeg );
+    background-image: url(images/electronics.jpeg );
     background-size: cover;
     height: 400px;
     display: flex;
@@ -212,7 +212,7 @@ ul a{
     align-items: center;
 }
 .logo{
-    background-image: url(logo.jpeg);
+    background-image: url(images/logo.jpeg);
     background-size: cover;
     height: 50px;
     width: 100px;
